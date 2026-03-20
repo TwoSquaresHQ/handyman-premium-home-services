@@ -2,6 +2,8 @@
 
 A Vercel-ready Next.js handyman template with a softer, more premium residential feel for home-maintenance businesses that want stronger trust and better presentation.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTwoSquaresHQ%2Ftwosquares-template-handyman-premium-home-services&project-name=handyman-premium-home-services&repository-name=handyman-premium-home-services&env=NEXT_PUBLIC_SITE_URL)
+
 ## What This Template Is For
 
 This starter is designed for:
@@ -52,6 +54,8 @@ pnpm dev
 - set `NEXT_PUBLIC_SITE_URL`
 - deploy
 
+Or use the Deploy with Vercel button above for a one-click setup flow.
+
 ## Environment Variables
 
 See `.env.example`.
@@ -79,4 +83,3 @@ Licensed under Apache-2.0. See [LICENSE](./LICENSE).
 If you want this template customized with your branding, content, forms, SEO structure, and deployment setup, contact TwoSquares:
 
 https://twosquares.co.uk/contact
-

@@ -4,6 +4,14 @@ A Vercel-ready Next.js handyman template with a softer, more premium residential
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTwoSquaresHQ%2Ftwosquares-template-handyman-premium-home-services&project-name=handyman-premium-home-services&repository-name=handyman-premium-home-services&env=NEXT_PUBLIC_SITE_URL)
 
+## Template Family
+
+This repo is one variant in the TwoSquares handyman website template family.
+
+Browse the main comparison and preview page:
+
+https://twosquares.co.uk/templates/handyman-website-template
+
 ## What This Template Is For
 
 This starter is designed for:
